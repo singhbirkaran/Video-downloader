@@ -1,0 +1,23 @@
+{
+  "name": "video-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhbirkaran/Video-downloader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singhbirkaran/Video-downloader/issues"
+  },
+  "homepage": "https://github.com/singhbirkaran/Video-downloader#readme",
+  "dependencies": {
+    "python-shell": "^3.0.1"
+  }
+}
